@@ -68,3 +68,27 @@ Thumbs.db
 # Cache
 .cache/
 *.faiss
+
+# ML Models & Embeddings
+backend/app/ml/models/
+backend/app/ml/data/topic_corpus/*.npy
+backend/app/ml/data/topic_corpus/*.pkl
+backend/app/ml/data/topic_corpus/*.bin
+backend/app/ml/data/topic_corpus/**/*.npy
+backend/app/ml/data/topic_corpus/**/*.pkl
+
+# Vectorstores (FAISS / metadata)
+vectorstore/
+backend/app/services/vectorstore/
+*.index
+*.hnsw
+*.ann
+
+# HuggingFace / Torch Files
+*.pt
+*.ckpt
+*.bin
+
+# Temporary datasets
+backend/app/ml/data/raw/
+backend/app/ml/data/processed/
