@@ -1,0 +1,17 @@
+{
+  "title": "The best guide to spotting AI writing comes from Wikipedia",
+  "text": "We’ve all felt the creeping suspicion that something we’re reading was written by a large language model — but it’s remarkably difficult to pin down. For a few months last year, everyone became convinced that specific words like “delve” or “underscore” could give models away, but the evidence is thin, and as models have grown more sophisticated, the telltale words have become harder to trace.\n\nBut as it turns out, the folks at Wikipedia have gotten pretty good at flagging AI-written prose — and the group’s public guide to “Signs of AI writing” is the best resource I’ve found for nailing down whether your suspicions are warranted. (Credit to the poet Jameson Fitzpatrick, who pointed out the document on X.)\n\nSince 2023, Wikipedia editors have been working to get a handle on AI submissions, a project they call Project AI Cleanup. With millions of edits coming in each day, there’s plenty of material to draw on, and in classic Wikipedia-editor style, the group has produced a field guide that’s both detailed and heavy on evidence.\n\nTo start with, the guide confirms what we already know: automated tools are basically useless. Instead, the guide focuses on habits and turns of phrase that are rare on Wikipedia but common on the internet at large (and thus, common in the model’s training data). According to the guide, AI submissions will spend a lot of time emphasizing why a subject is important, usually in generic terms like “a pivotal moment” or “a broader movement.” AI models will also spend a lot of time detailing minor media spots to make the subject seem notable — the kind of thing you’d expect from a personal bio, but not from an independent source.\n\nThe guide flags a particularly interesting quirk around tailing clauses with hazy claims of importance. Models will say some event or detail is “emphasizing the significance” of something or other, or “reflecting the continued relevance” of some general idea. (Grammar nerds will know this as the “present participle.”) It’s a bit hard to pin down, but once you can recognize it, you’ll see it everywhere.\n\nThere’s also a tendency toward vague marketing language, which is extremely common on the internet. Landscapes are always scenic, views are always breathtaking, and everything is clean and modern. As the editors put it, “it sounds more like the transcript of a TV commercial.”\n\nThe guide is worth reading in full, but I came away very impressed. Before this, I would have said that LLM prose was developing too fast to pin down. But the habits flagged here are deeply embedded in the way AI models are trained and deployed. They can be disguised, but it will be hard to do away with them completely. And if the general public gets more savvy about identifying AI prose, it could have all sorts of interesting consequences.",
+  "authors": [
+    "Russell Brandom",
+    "Ai Editor",
+    "Sarah Perez",
+    "Julie Bort",
+    "Lorenzo Franceschi-Bicchierai",
+    "Ram Iyer",
+    "Connie Loizos",
+    "Anthony Ha",
+    "Rebecca Bellan",
+    "--C-Author-Card-Image-Size Align-Items Center Display Flex Gap Var"
+  ],
+  "url": "https://techcrunch.com/2025/11/20/the-best-guide-to-spotting-ai-writing-comes-from-wikipedia/"
+}

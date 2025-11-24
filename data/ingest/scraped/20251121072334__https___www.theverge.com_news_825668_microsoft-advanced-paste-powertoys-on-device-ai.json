@@ -1,0 +1,8 @@
+{
+  "title": "Microsoft’s AI-powered copy and paste can now use on-device AI",
+  "text": "is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nMicrosoft is upgrading its Advanced Paste tool in PowerToys for Windows 11, allowing you to use an on-device AI model to power some of its features. With the 0.96 update, you can route requests through Microsoft’s Foundry Local tool or the open-source Ollama, both of which run AI models on your device’s neural processing unit (NPU) instead of connecting to the cloud.\n\nThat means you won’t need to purchase API credits to perform certain actions, like having AI translate or summarize the text copied to your clipboard. Plus, you can keep your data on your device.\n\nImage: Microsoft\n\nAlong with support for on-device AI, you can now configure Advanced Paste to work with multiple other online models, including Azure OpenAI, Gemini, and Mistral. The tool previously only supported OpenAI.\n\nThere’s a new design tweak for Advanced Paste, too, as it now shows your current clipboard content and includes a model selection drop-down menu.",
+  "authors": [
+    "Emma Roth"
+  ],
+  "url": "https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai"
+}

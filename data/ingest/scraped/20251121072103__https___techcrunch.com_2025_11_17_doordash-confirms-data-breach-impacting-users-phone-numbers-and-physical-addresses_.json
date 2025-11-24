@@ -1,0 +1,17 @@
+{
+  "title": "DoorDash confirms data breach affecting users’ phone numbers and physical addresses",
+  "text": "DoorDash disclosed a data breach that exposed the personal information of an unspecified number of users, which included names, email addresses, phone numbers, and physical addresses.\n\nDespite the fact that hackers stole phone numbers and physical addresses, DoorDash claimed that “no sensitive information was accessed by the unauthorized third party and we have no indication the data has been misused for fraud or identity theft at this time.”\n\nDoorDash said in the post that the breach affected a mix of customers, delivery workers, and merchants.\n\nCompany spokesperson Michelle Babin did not respond when asked exactly how many users were victims of the breach. Instead, Babin sent a statement that largely echoed the blog post about the breach.\n\nThe breach originated from an employee falling for a social engineering attack. When the company identified the breach, it shut down the hackers’ access to its systems, started an investigation, and reported the incident to law enforcement, according to a post published last week by the company.\n\nDoorDash said no “Social Security numbers, other government-issued identification numbers, driver’s license information, or bank or payment card information” were stolen as part of the breach.\n\nThe company said it has notified affected users.\n\nDoorDash also experienced a security incident in 2019, which saw hackers steal data on close to 5 million customers, delivery workers and merchants. DoorDash took about five months to detect the breach, which the company blamed on a third-party vendor.\n\nThis story has been updated to include DoorDash’s spokesperson response.",
+  "authors": [
+    "Lorenzo Franceschi-Bicchierai",
+    "Senior Reporter",
+    "Sarah Perez",
+    "Julie Bort",
+    "Ram Iyer",
+    "Connie Loizos",
+    "Anthony Ha",
+    "Rebecca Bellan",
+    "--C-Author-Card-Image-Size Align-Items Center Display Flex Gap Var",
+    "Media"
+  ],
+  "url": "https://techcrunch.com/2025/11/17/doordash-confirms-data-breach-impacting-users-phone-numbers-and-physical-addresses/"
+}

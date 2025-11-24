@@ -1,0 +1,17 @@
+{
+  "title": "With upcoming ban, Meta begins to notify Australian teens that their accounts will be shut down",
+  "text": "In Brief\n\nAs Australia’s social media ban for teens under the age of 16 looms, Meta has started notifying teenage Facebook and Instagram users about the fate of their accounts.\n\nWhen the ban goes into effect on December 10, Meta will revoke teens’ access to their existing accounts, and as of December 4, will prevent users under 16 from starting new accounts. Once they turn 16, they will be able to access their old account as they left it.\n\nIt will be a challenge, however, for Meta to determine which users are under the age of 16, since people aren’t always truthful about their age when signing up for social media services. But digital age checks are notoriously difficult to execute in a manner that’s safe and effective. Identity verification services are high-profile targets for hacks, and the implications of even a minor security vulnerability are severe, since personal information and government documents can be exposed.\n\nIdentity verification platforms have already proven problematic for users’ security. Last year, 404 Media found that AU10TIX, a company that verifies the identity of users on TikTok, Uber, and X, had left administrative credentials exposed online for over a year, which allowed users’ sensitive information to be exposed.",
+  "authors": [
+    "Amanda Silberling",
+    "Sarah Perez",
+    "Ivan Mehta",
+    "Dominic-Madori Davis",
+    "Lauren Forristal",
+    ".Post-Authors-List__Authors --Font-Size Var",
+    "Align-Items Center Display Flex Gap Var",
+    ".Post-Authors-List__Authors .Post-Authors-List__Author-Thumbs Display Flex Flex-Shrink Margin Padding .Post-Authors-List__Authors .Post-Authors-List__Author-Thumbs Li List-Style None Margin-Left Margin-Top Important .Post-Authors-List__Authors .Post-Authors-List__Author-Thumbs Li First-Child Margin-Left .Post-Authors-List__Authors .Post-Authors-List__Author-Thumbs .Post-Authors-List__Author-Thumb Background-Color Var",
+    "Border Solid Var --Wp--Custom--Color--White",
+    "Border-Radius"
+  ],
+  "url": "https://techcrunch.com/2025/11/19/with-upcoming-ban-meta-begins-to-notify-australian-teens-that-their-accounts-will-be-shut-down/"
+}

@@ -1,0 +1,1 @@
+fastapi uvicorn bertopic sentence-transformers pandas numpy scikit-learn feedparser

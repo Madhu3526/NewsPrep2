@@ -1,0 +1,11 @@
+{
+  "title": "The post-training revolution: How reinforcement learning is upending the AI infra stack",
+  "text": "TechCrunch was proud to host Scale Venture Partners at Disrupt 2025 in San Francisco. Here’s an overview of their AI Stage session.\n\nThe reinforcement learning market has exploded, with enterprises seeking to use less of general-purpose models in favor of specialized ones going forward. As these specialized demands increase, the supporting infrastructure must also scale. This transition is driving a complete reimagining of the AI infra stack. Capital is flowing towards ecosystems that enable efficiency, differentiation, and defensibility such as inference infra, fine-tuning platforms, and middleware orchestration.\n\nIn this AI Stage session, Scale Partner Eric Anderson and Kyle Corbitt discussed the history of RL, why its moment is now, and what startups should be thinking about as they build and adopt RL solutions.\n\nPresented by:",
+  "authors": [
+    "Cindy Zackney",
+    "Dominic-Madori Davis",
+    "Sean O'Kane",
+    "Marina Temkin"
+  ],
+  "url": "https://techcrunch.com/sponsor/scale-venture-partners/the-post-training-revolution-how-reinforcement-learning-is-upending-the-ai-infra-stack/"
+}

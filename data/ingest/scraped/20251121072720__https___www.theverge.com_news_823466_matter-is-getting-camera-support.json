@@ -1,0 +1,8 @@
+{
+  "title": "Matter is getting camera support.",
+  "text": "The Matter 1.5 spec, announced today, adds support for all types of video cameras — from video doorbells, indoor and outdoor, wired and battery-powered cameras, to baby monitors and pet cams. And, perhaps most importantly, Matter support can be added to existing cameras with an OTA update. The new spec also adds garage door controllers, bi-directional charging for EVs, soil sensors, and more advanced integration with utilities for energy management.",
+  "authors": [
+    "Jay Peters"
+  ],
+  "url": "https://www.theverge.com/news/823466/matter-is-getting-camera-support"
+}

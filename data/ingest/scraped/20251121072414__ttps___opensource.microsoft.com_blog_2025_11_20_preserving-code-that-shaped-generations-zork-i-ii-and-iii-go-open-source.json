@@ -1,0 +1,9 @@
+{
+  "title": "Preserving code that shaped generations: Zork I, II, and III go Open Source",
+  "text": "A game that changed how we think about play\n\nWhen Zork arrived, it didn’t just ask players to win; it asked them to imagine. There were no graphics, no joystick, and no soundtrack, only words on a screen and the player’s curiosity. Yet those words built worlds more vivid than most games of their time. What made that possible wasn’t just clever writing, it was clever engineering.\n\nBeneath that world of words was something quietly revolutionary: the Z-Machine, a custom-built engine. Z-Machine is a specification of a virtual machine, and now there are many Z-Machine interpreters that we used today that are software implementations of that VM. The original mainframe version of Zork was too large for early home computers to handle, so the team at Infocom made a practical choice. They split it into three games titled Zork I, Zork II, and Zork III, all powered by the same underlying system. This also meant that instead of rebuilding the game for each platform, they could use the Z-Machine to interpret the same story files on any computer. That design made Zork one of the first games to be truly cross-platform, appearing on Apple IIs, IBM PCs, and more.",
+  "authors": [
+    "Stacey Haffner",
+    "Scott Hanselman"
+  ],
+  "url": "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source"
+}

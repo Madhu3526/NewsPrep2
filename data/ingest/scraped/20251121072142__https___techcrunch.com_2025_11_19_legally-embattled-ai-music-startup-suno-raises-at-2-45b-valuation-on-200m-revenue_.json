@@ -1,0 +1,17 @@
+{
+  "title": "Legally embattled AI music startup Suno raises at $2.45B valuation on $200M revenue",
+  "text": "If you want insight into just how worried VCs (and Silicon Valley, generally) are over legal challenges to AI training on copyrighted material, look no further than AI music site Suno.\n\nSuno, which allows anyone to create AI-generated songs through prompts, announced on Wednesday that it has raised a $250 million Series C round at a $2.45 billion post-money valuation. The round was led by Menlo Ventures with participation from Nvidia’s venture arm NVentures, as well as Hallwood Media, Lightspeed, and Matrix.\n\nThe company offers consumer monthly subscriptions (a free tier plus $8 or $24 per month plans) and launched a version of Suno for commercial creators in September. It has now hit $200 million in annual revenue, Suno told The Wall Street Journal.\n\nIt previously raised a $125 million Series B in May 2024, led by Lightspeed Venture Partners, Nat Friedman, and Daniel Gross, Matrix, and Founder Collective, at an estimated $500 million valuation.\n\nBut Suno has also been the poster child for AI training lawsuits by human artists. The company is battling a suit by three major record labels — Sony Music Entertainment, Universal Music Group, and Warner Music Group — which alleges Suno trained on copyrighted materials scraped off the Internet without permission.\n\nThose types of suits still reside in a legal gray zone in the U.S., and most are settled, typically by a training data licensing agreement. (Last month, Universal and Udio settled their litigation in such a way.) Suno has also faced similar legal challenges by the Danish music rights organization Koda and Germany’s GEMA. GEMA, by the way, earlier this month won its suit filed in Germany against OpenAI that also challenged the legality of training on scraped copyrighted material.\n\nBut given Suno’s market success, growth, and the obvious potential market for AI-generated music, its legal complications are a shoulder shrug to investors.\n\n“Type an idea, click Create, and suddenly, you’re not just imagining music — you’re making it. That shift from listener to creator? That’s what Suno unlocks,” the Menlo VCs who backed the startup describe in their blog post about the investment.\n\nMenlo didn’t just like the tech, but also that Suno has grown largely through word of mouth — people sharing songs on their group texts, the investors said.\n\nNo doubt the AI industry is, and will continue, to eventually work out the legal ramifications of acting first, asking for permission later, over training data. But before that’s settled, the era of AI-generated music has clearly arrived.",
+  "authors": [
+    "Julie Bort",
+    "Venture Editor",
+    "Sarah Perez",
+    "Lorenzo Franceschi-Bicchierai",
+    "Ram Iyer",
+    "Connie Loizos",
+    "Anthony Ha",
+    "Rebecca Bellan",
+    "--C-Author-Card-Image-Size Align-Items Center Display Flex Gap Var",
+    "Media"
+  ],
+  "url": "https://techcrunch.com/2025/11/19/legally-embattled-ai-music-startup-suno-raises-at-2-45b-valuation-on-200m-revenue/"
+}

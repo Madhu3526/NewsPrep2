@@ -1,0 +1,17 @@
+{
+  "title": "US, UK, and Australia sanction Russian ‘bulletproof’ web host used in ransomware attacks",
+  "text": "The governments of the United States, United Kingdom, and Australia have sanctioned a Russian “bulletproof” web hosting company and several of its related firms for allegedly being used to launch ransomware attacks against U.S. victims and critical infrastructure.\n\nIn a statement Wednesday, the U.S. Treasury said it imposed coordinated sanctions on the Russia-based web host Media Land and three related companies. The sanctions also target several of the company’s executives, including its general director — also known as Yalishanda — who allegedly provided servers and troubleshooting to cybercriminals.\n\nOfficials say criminal hackers relied on Media Land to launch distributed denial-of-service attacks. Prolific ransomware gangs, including LockBit, BlackSuit, and Play allegedly used it for their infrastructure. The Treasury said several of the company’s employees coordinated with cybercriminals.\n\n“Bulletproof” providers are web hosts and cloud companies that typically tout their services as impervious or resilient to law enforcement actions, such as takedowns or legal demands, and as such are commonly used by cybercriminals to host their malicious infrastructure.\n\nU.S. officials said hosting companies like Media Land help provide cybercriminals essential services for “attacking businesses in the United States and in allied countries,” though Treasury did not name the victims of the attacks.\n\nThe U.K.’s Foreign Office said it was also designating a U.K.-based company called Hypercore, which officials said was set up as a front company for Aeza Group, another bulletproof hosting company that was sanctioned by the U.S. in July. The U.K. said in its own statement that Aeza is linked to a Kremlin disinformation organization called the Social Design Agency.\n\nSanctioning the companies and individuals involved in cybercrime effectively makes it illegal for citizens, residents, or those with business ties to the U.S., U.K., and Australia from transacting or conducting business with those sanctioned.\n\nU.S. cybersecurity agency CISA and the National Security Agency published guidance Wednesday on how organizations can mitigate the risks from bulletproof hosting providers.",
+  "authors": [
+    "Zack Whittaker",
+    "Security Editor",
+    "Sarah Perez",
+    "Julie Bort",
+    "Lorenzo Franceschi-Bicchierai",
+    "Ram Iyer",
+    "Connie Loizos",
+    "Anthony Ha",
+    "Rebecca Bellan",
+    "--C-Author-Card-Image-Size Align-Items Center Display Flex Gap Var"
+  ],
+  "url": "https://techcrunch.com/2025/11/19/us-uk-and-australia-sanction-russian-bulletproof-web-host-used-in-ransomware-attacks/"
+}

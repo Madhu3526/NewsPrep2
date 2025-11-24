@@ -1,0 +1,9 @@
+{
+  "title": "When a prompt becomes the product in customer service",
+  "text": "When a prompt becomes the product in customer service\n\nPrompting began as a simple way to guide language models. But in customer service, this nudging now forms the entire infrastructure on which products are built. Your AI agents may be teetering on an unstable foundation of prompts, and you might not even realize it.\n\nIn This Whitepaper\n\nRather than an anti-prompting argument, this paper makes the case for using prompts deliberately and strategically, weaving them into structured, resilient systems designed for production. Drawing on Parloa’s architecture, built on Microsoft Azure, we’ll explore how prompts can support conversation operations without carrying the whole load.\n\n\n\nYou’ll discover:\n\nA breakdown of how Parloa builds stable, scalable agents.\n\nHow prompts turned from a guiding mechanism to an overdrawn architecture.\n\nThe hidden failure points created by overreliance on all-purpose prompting.\n\nWhere prompting shines, and where it falls short.\n\nBest practices for deploying prompts intelligently in production.\n\nWhy real-world customer interactions require more than language alone.\n\n\n\n",
+  "authors": [
+    "Cindy Zackney",
+    "Zack Whittaker"
+  ],
+  "url": "https://techcrunch.com/sponsor/parloa/when-a-prompt-becomes-the-product-in-customer-service/"
+}
