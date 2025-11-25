@@ -50,6 +50,7 @@ yarn-error.log*
 # React Build
 frontend/build/
 frontend/dist/
+frontend/.vite/
 
 # Logs
 *.log
