@@ -1,0 +1,9 @@
+frontend/
+data/
+vectorstore/
+venv/
+.git/
+*.log
+__pycache__/
+*.pyc
+.env
