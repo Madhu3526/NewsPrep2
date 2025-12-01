@@ -44,9 +44,9 @@ app.add_middleware(
 # ------------------------------------------------
 @app.on_event("startup")
 def on_startup():
-    print("🚀 Initializing Database...")
+    print("Initializing Database...")
     init_db()
-    print("✅ Database Ready.")
+    print("Database Ready.")
 
 
 # ------------------------------------------------

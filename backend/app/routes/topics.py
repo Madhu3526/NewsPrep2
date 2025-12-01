@@ -44,7 +44,7 @@ def startup_topic_service():
     global _ts
 
     if not TS_AVAILABLE:
-        print("⚠ Topic service not available. Using DB-only topics.")
+        print("Topic service not available. Using DB-only topics.")
         return
 
     MODEL_PATH = "backend/app/ml/models/topics/bertopic_global"
@@ -52,7 +52,7 @@ def startup_topic_service():
     KEYWORDS_PATH = "backend/app/ml/models/topics/bertopic_keywords.json"
 
     try:
-        print("🔵 Loading BERTopic service...")
+        print("Loading BERTopic service...")
         _ts = get_topic_service(
             model_path=MODEL_PATH,
             articles_csv=CSV_PATH  # Only used for topic names — articles come from DB
@@ -63,9 +63,9 @@ def startup_topic_service():
         if os.path.exists(KEYWORDS_PATH):
             with open(KEYWORDS_PATH, 'r') as f:
                 _ts.topic_keywords = json.load(f)
-        print("🟢 Topic service loaded.")
+        print("Topic service loaded.")
     except Exception as e:
-        print("❌ Failed to load topic service:", e)
+        print("Failed to load topic service:", e)
         _ts = None
 
 
